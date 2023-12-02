@@ -22,10 +22,8 @@
 6. **git branch**: Lists all the branches in your repository.
 7. 
 ---
-#### Adding images
-
-
-
+ # * Tag 6 *
+ ###### Adding images
 
 <figure>
     <img src="imag1.jpg"
