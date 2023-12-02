@@ -28,7 +28,7 @@
 <figure>
     <img src="imag1.jpg"
          alt="Thank You!!">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+    <figcaption>WOOOOO.</figcaption>
 </figure>
-
+> You're welcome! Thank you for your kind feedback. I'm always striving to improve my abilities, and your feedback helps me to do that. Please let me know if you have any other questions or requests.
 
