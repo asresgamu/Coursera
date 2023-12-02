@@ -6,14 +6,14 @@
 ## Hopefully I will from this course new things and upgrade my key skill **Version Controle**.
  # * Tag 3 *  This is a heading 3
 ### What I cover in this course are
- # * Tag 4 *  in this un unordderde list
+ # * Tag 4 *  in this un unordered list
 - Basic Sanytax in Version Controlle
 - How uppdate , commit , delete, and margin file in deffernt branching.
 - Additionally, how to fork anothere repo.
 
 ---
 # Addtionaly, here are some basic version control syntax commands for Git
- # * Tag 5 *  This is an orddered list
+ # * Tag 5 *  This is an ordered list
 1. **git init:** Initializes a new Git repository.
 2. **git add \<filename>:** Adds a file to the staging area.
 3. **git commit -m\ "<message>"**: Commits the changes in the staging area to the repository and adds a message describing the changes.'
@@ -33,5 +33,5 @@
 
 ***
 
-> \# You're welcome! Thank you for your kind feedback. I'm always striving to improve my abilities, and your feedback helps me to do that. Please let me know if you have any other questions or requests.
+> You're welcome! Thank you for your kind feedback. I'm always striving to improve my abilities, and your feedback helps me to do that. Please let me know if you have any other questions or requests.
 
