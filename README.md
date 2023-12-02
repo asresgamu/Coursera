@@ -1,6 +1,6 @@
 # Enhancing Version Control Skills through Coursera 
 
- # \* Tag 1 .*  This is a blockquote
+ # ** Tag 1**. This is a blockquote
 > I'm currently enrolled in a Coursera course offered by the University of Leeds, aiming to enhance my proficiency in version control. Through this comprehensive curriculum, I anticipate gaining valuable insights and practical skills in utilizing version control tools effectively.
  # *** Tag 2. ***  This is a Heading 2
 ## Hopefully I will from this course new things and upgrade my key skill **Version Controle**.
