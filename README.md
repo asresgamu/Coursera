@@ -28,7 +28,7 @@
 
 
 <figure>
-    <img src="/assets/images/albuquerque.jpg"
+    <img src="imag1.jpg"
          alt="Thank You!!">
     <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
 </figure>
