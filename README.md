@@ -14,6 +14,6 @@ I'm currently enrolled in a Coursera course offered by the University of Leeds, 
 4. **git status**: Shows the status of your working directory, staging area, and repository.
 5. **git checkout \<branch>**: Switches to the specified branch.
 6. **git branch**: Lists all the branches in your repository.
-   ---
 
-   # Thank you!!!
+
+# Thank you!!!
