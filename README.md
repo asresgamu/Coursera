@@ -30,5 +30,8 @@
          alt="Thank You!!">
     <figcaption>WOOOOO.</figcaption>
 </figure>
-> You're welcome! Thank you for your kind feedback. I'm always striving to improve my abilities, and your feedback helps me to do that. Please let me know if you have any other questions or requests.
+
+***
+
+> \# You're welcome! Thank you for your kind feedback. I'm always striving to improve my abilities, and your feedback helps me to do that. Please let me know if you have any other questions or requests.
 
