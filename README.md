@@ -25,12 +25,12 @@
 #### Adding images
 
 
-# Thank you!!!
+
 
 <figure>
     <img src="[/assets/images/albuquerque.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dthank%2Byou&psig=AOvVaw3g-KgrYc13dbqcx9isbhP4&ust=1701578976157000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIjdzeX574IDFQAAAAAdAAAAABAE)"
          alt="Albuquerque, New Mexico">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+    <figcaption>\# Thank you!!!.</figcaption>
 </figure>
 
 
